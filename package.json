@@ -1,0 +1,27 @@
+{
+  "name": "hw-week-18-mongo",
+  "version": "1.0.0",
+  "description": "a web app that lets users view and leave comments on the latest news.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsulaiman/HW_Mongo.git"
+  },
+  "author": "Hamad Alsulaiman",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "cheerio": "*",
+    "request": "*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsulaiman/HW_Mongo/issues"
+  },
+  "homepage": "https://github.com/alsulaiman/HW_Mongo#readme"
+}
